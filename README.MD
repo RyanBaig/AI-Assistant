@@ -1,15 +1,15 @@
-# Omar AI Assistant
+# AI Assistant
 ![LOGO](LOGO.jpg)
 
 
 ## Description
 
-Omar is an AI Assistant application that can recognize speech, interact with users, and provide text-to-speech responses. It uses the [DialoGPT-Large](https://huggingface.co/microsoft/DialoGPT-large) model for generating text responses.
+It is an AI Assistant application that can recognize speech, interact with users, and provide text-to-speech responses. It uses the [Falcon-7B-Instruct](https://huggingface.co/tiiuae/falcon-7b-instruct) model for generating text responses.
 
 ## Features
 
 - Speech recognition using the Google Speech Recognition API.
-- Interaction with the DialoGPT model for generating responses.
+- Interaction with the Falcon model for generating responses.
 - Text-to-speech conversion using the gTTS (Google Text-to-Speech) library.
 
 
@@ -18,7 +18,6 @@ Omar is an AI Assistant application that can recognize speech, interact with use
 1. Download the Packages EXE's [ZIP file](https://github.com/RyanBaig/AI-Assistant/raw/master/AI%20Assistant.zip)
 2. Unzip the file.
 3. Run the **main.exe** file. It will open a console/terminal window.
-4. Speak through a microphone and start the sentence with **Omar** as it is the name of the assistant.
 
 
 ## Usage
