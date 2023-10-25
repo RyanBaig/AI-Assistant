@@ -15,7 +15,7 @@ Omar is an AI Assistant application that can recognize speech, interact with use
 
 ## Installation
 
-1. Download the Packages EXE's [ZIP file](https://raw.githubusercontent.com/RyanBaig/AI-Assistant/master/AI%20Assistant.zip)
+1. Download the Packages EXE's [ZIP file](https://github.com/RyanBaig/AI-Assistant/raw/master/AI%20Assistant.zip)
 2. Unzip the file.
 3. Run the **main.exe** file. It will open a console/terminal window.
 4. Speak through a microphone and start the sentence with **Omar** as it is the name of the assistant.
